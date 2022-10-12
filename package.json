@@ -1,0 +1,23 @@
+{
+  "name": "crate-map",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/330namajnoon/crate-map.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/330namajnoon/crate-map/issues"
+  },
+  "homepage": "https://github.com/330namajnoon/crate-map#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
